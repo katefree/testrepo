@@ -1,3 +1,0 @@
-test from svn yeah
-test from svn yeah 2
-test from svn yeah 3
