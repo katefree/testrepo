@@ -1,8 +1,0 @@
-test from svn yeah
-test from svn yeah 2
-test from svn yeah 3
-test from svn yeah 4
-<<<<<<< HEAD
-=======
-test from svn yeah 5
->>>>>>> svn/git-svn
