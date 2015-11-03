@@ -4,3 +4,4 @@ test from git wow 2
 test from git wow 3
 test from git wow 4
 test from git wow 5
+test from git wow 6
